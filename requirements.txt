@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+scikit-learn
+joblib
+flask
+requests
+matplotlib
+seaborn
