@@ -28,6 +28,11 @@ The project utilizes the **Toddler Autism Screening Dataset** from Kaggle:
 - **Encryption:** User information is securely stored.
 - **Access Control:** Role-based authentication restricts unauthorized access.
 
+
+![Screenshot 2025-04-01 022852](https://github.com/user-attachments/assets/0864301e-5a55-4545-a89e-aa93cc5a9414)
+![Screenshot 2025-04-01 022909](https://github.com/user-attachments/assets/7955e32a-1fb8-4310-a76c-b9d336883668)
+
+
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
