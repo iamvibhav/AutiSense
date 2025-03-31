@@ -1,4 +1,4 @@
-# Autisense: Autism Prediction and Privacy-Preserving Healthcare System
+# AutiSense: Autism Prediction and Privacy-Preserving Healthcare System
 
 ## 🔍 Project Overview
 **Autisense** is a machine-learning-powered platform designed to assist healthcare professionals in predicting autism in toddlers. This project provides a secure and privacy-compliant environment where doctors can input patient data, receive AI-driven predictions, and ensure data security through privacy-preserving techniques.
