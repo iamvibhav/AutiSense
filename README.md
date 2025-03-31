@@ -9,7 +9,7 @@
   - **Doctors**: Can input patient data, run the model, and get predictions.
   - **Patients**: Can view their own diagnosis and reports.
   - **Researchers**: Access anonymized patient data for research purposes.
-- **Privacy-Preserving Techniques**: Implements **perturbation**, **k-anonymity**, and **secure sum protocol** to protect sensitive data.
+- **Privacy-Preserving Techniques:** Implements perturbation to protect sensitive data.
 - **Security Measures**: Authentication, encryption, and access control mechanisms.
 - **Gradio-Based Web Interface**: User-friendly UI for doctors, patients, and researchers.
 
@@ -22,6 +22,11 @@ The project utilizes the **Toddler Autism Screening Dataset** from Kaggle:
   - **Q-CHAT Score**
   - **Demographics** (Sex, Ethnicity, Jaundice history, Family ASD history)
   - **Target Variable**: `Class/ASD Traits` (Indicating presence of ASD traits)
+ 
+## Privacy & Security Measures
+- **Perturbation:** Random noise is added to sensitive data to prevent exact identification.
+- **Encryption:** User information is securely stored.
+- **Access Control:** Role-based authentication restricts unauthorized access.
 
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
